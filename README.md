@@ -15,7 +15,7 @@ A standalone Apple Watch app that puts Google's Gemini AI on your wrist — no i
 **[fortnite-launch-script](https://github.com/cyroz1/fortnite-launch-script)** &nbsp;·&nbsp; `Batch` `Windows`
 Tiny Windows batch script that launches Fortnite and then kills every Epic Games background process to free up resources.
 
-**[cyroz1.github.io](https://github.com/cyroz1/cyroz1.github.io)** &nbsp;·&nbsp; `HTML`
+**[cyroz-net](https://github.com/cyroz1/cyroz-net)** &nbsp;·&nbsp; `HTML`
 Source for my personal site, [cyroz.net](https://cyroz.net).
 
 ### Tech I reach for
