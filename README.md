@@ -1,23 +1,28 @@
 ## Hi, I'm cyroz 👋
 
-Building tools that scratch my own itch — desktop apps, watch apps, and the occasional gaming script.
+I build small, useful software for desktop, Apple Watch, and the web — usually to solve a problem I have myself.
 
 🌐 [cyroz.net](https://cyroz.net)
 
-### Featured projects
+### Current projects
 
-**[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `TypeScript` `Rust` `Tauri` `FFmpeg`
-Tauri desktop app that compresses videos to fit under Discord's upload limits (10 / 25 / 50 / 100 / 500 MB). Built with React on the frontend and Rust on the backend.
+**[Wristex](https://github.com/cyroz1/wristex)** &nbsp;·&nbsp; `Swift` `watchOS` `SSH` `Codex`  
+Apple Watch remote control for Codex running on any reachable SSH host, with streamed threads, approvals, goals, and Git status.
 
-**[gemini-watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`
-A standalone Apple Watch app that puts Google's Gemini AI on your wrist — no iPhone required.
+**[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `macOS` `Windows` `yt-dlp` `FFmpeg`  
+Native desktop front ends that create tagged M4A files from public music and social sources for an Apple Music library.
 
-**[fortnite-launch-script](https://github.com/cyroz1/fortnite-launch-script)** &nbsp;·&nbsp; `Batch` `Windows`
-Tiny Windows batch script that launches Fortnite and then kills every Epic Games background process to free up resources.
+**[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `TypeScript` `Rust` `Tauri` `FFmpeg`  
+A free, open-source desktop video compressor for Discord. It runs locally on Windows, macOS, and Linux with no uploads or telemetry.
 
-**[cyroz-net](https://github.com/cyroz1/cyroz-net)** &nbsp;·&nbsp; `HTML`
-Source for my personal site, [cyroz.net](https://cyroz.net).
+**[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`  
+A standalone Apple Watch app for chatting with Google Gemini directly from watchOS.
+
+**[cyroz.net](https://github.com/cyroz1/cyroz-net)** &nbsp;·&nbsp; `HTML` `Cloudflare Workers`  
+Source for my personal site and its small web projects.
+
+[More projects on GitHub](https://github.com/cyroz1?tab=repositories)
 
 ### Tech I reach for
 
-`TypeScript` · `Rust` · `Swift` · `React` · `Tauri` · `SwiftUI`
+`TypeScript` · `Rust` · `Swift` · `React` · `Tauri` · `SwiftUI` · `FFmpeg` · `Cloudflare Workers`
