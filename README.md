@@ -6,31 +6,31 @@ I build small, useful software for desktop, Apple Watch, and the web — usually
 
 ### Public projects
 
-Ranked by ⭐ stars, then latest commit date (newest first).
+Ordered by popularity.
 
-**[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg` &nbsp;·&nbsp; ⭐ 70 &nbsp;·&nbsp; last commit `2026-08-19`  \
-A free, open-source desktop video compressor for Discord. It runs locally on Windows, macOS, and Linux with no uploads or telemetry.
+**[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg`  \
+A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing.
 
-**[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS` &nbsp;·&nbsp; ⭐ 7 &nbsp;·&nbsp; last commit `2026-07-13`  \
-A standalone Apple Watch app for chatting with Google Gemini directly from watchOS.
+**[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`  \
+A standalone watchOS Gemini chat client with streaming conversations, local history, web search grounding, and text-to-speech—no iPhone companion required.
 
-**[Fortnite Launch Script](https://github.com/cyroz1/fortnite-launch-script)** &nbsp;·&nbsp; `Batchfile` &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; last commit `2025-02-08`  \
-A batch script to launch Fortnite, then kill all Epic background processes.
+**[Fortnite Launch Script](https://github.com/cyroz1/fortnite-launch-script)** &nbsp;·&nbsp; `Batchfile`  \
+A small Windows batch launcher for Fortnite that cleans up leftover Epic background processes.
 
-**[Rollplay](https://github.com/cyroz1/rollplay)** &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; last commit `2026-08-24`  \
-Browser-native FL Studio project visualizer, MIDI exporter, and MP4 renderer.
+**[Rollplay](https://github.com/cyroz1/rollplay)** &nbsp;·&nbsp; `JavaScript`  \
+A dependency-free browser app for FL Studio and Ableton projects that visualizes piano rolls, exports MIDI, and renders MP4 video locally.
 
-**[GPT Transcribe](https://github.com/cyroz1/gpt-transcribe)** &nbsp;·&nbsp; `Swift` &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; last commit `2026-08-23`  \
-A cross-platform dictation app for macOS and Windows using OpenAI gpt-transcribe, with global hotkeys and clipboard insertion.
+**[cyroz.net](https://github.com/cyroz1/cyroz-net)** &nbsp;·&nbsp; `HTML` `Cloudflare Workers`  \
+Source for cyroz.net, a Cloudflare Workers site with links, beats, setup, camera, and settings pages.
 
-**[Wristex](https://github.com/cyroz1/wristex)** &nbsp;·&nbsp; `Swift` `watchOS` `SSH` `Codex` &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; last commit `2026-08-06`  \
-Apple Watch remote control for Codex running on any reachable SSH host, with streamed threads, approvals, goals, and Git status.
+**[GPT Transcribe](https://github.com/cyroz1/gpt-transcribe)** &nbsp;·&nbsp; `Swift`  \
+A cross-platform macOS and Windows dictation utility with a global hotkey, live or standard OpenAI transcription, and clipboard insertion.
 
-**[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg` &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; last commit `2026-08-02`  \
-Native desktop front ends that create tagged M4A files from public music and social sources for an Apple Music library.
+**[Wristex](https://github.com/cyroz1/wristex)** &nbsp;·&nbsp; `Swift` `watchOS` `SSH` `Codex`  \
+A watchOS remote control for Codex over direct SSH, with streamed threads, approvals, goals, Git actions, and a separate OpenAI chat mode.
 
-**[cyroz.net](https://github.com/cyroz1/cyroz-net)** &nbsp;·&nbsp; `HTML` `Cloudflare Workers` &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; last commit `2026-07-31`  \
-Source for my personal site and its small web projects.
+**[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg`  \
+Native macOS and Windows apps that turn public music and social links into tagged M4A files for an Apple Music library, with metadata and artwork handling.
 
 [More projects on GitHub](https://github.com/cyroz1?tab=repositories)
 
