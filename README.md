@@ -32,6 +32,12 @@ A watchOS remote control for Codex over direct SSH, with streamed threads, appro
 **[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg`  \
 Native macOS and Windows apps that turn public music and social links into tagged M4A files for an Apple Music library, with metadata and artwork handling.
 
+**[Ultimate](https://github.com/cyroz1/Ultimate)** &nbsp;·&nbsp; `PowerShell` `Windows`  \
+A Windows guide for power users — multiple scripts with revert options and a UI; reboot needed for scripts to apply.
+
+**[WinSux-arm64](https://github.com/cyroz1/WinSux-arm64)** &nbsp;·&nbsp; `PowerShell` `ARM64`  \
+An ARM64-aware Windows one-click guide for power users.
+
 [More projects on GitHub](https://github.com/cyroz1?tab=repositories)
 
 ### Tech I reach for
