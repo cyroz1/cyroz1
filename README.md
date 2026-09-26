@@ -4,6 +4,10 @@ I build small, useful software for desktop, Apple Watch, and the web — usually
 
 🌐 [cyroz.net](https://cyroz.net)
 
+### Support my work
+
+My projects are free and open source. If they save you time, consider [sponsoring me on GitHub](https://github.com/sponsors/cyroz1).
+
 ### Public projects
 
 Ordered by popularity.
