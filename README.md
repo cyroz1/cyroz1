@@ -15,6 +15,9 @@ Ordered by popularity.
 **[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg`  \
 A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing.
 
+**[fl-studio-rust](https://github.com/cyroz1/fl-studio-rust)** &nbsp;·&nbsp; `Rust` `egui` `VST3`  \
+A clean-room FL Studio rebuild in Rust — lossless FLP format core with round-trip fidelity, VST3 hosting, and a desktop GUI (playlist, channel rack, piano roll, mixer).
+
 **[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`  \
 A standalone watchOS Gemini chat client with streaming conversations, local history, web search grounding, and text-to-speech—no iPhone companion required.
 
@@ -41,6 +44,9 @@ A Windows guide for power users — multiple scripts with revert options and a U
 
 **[WinSux-arm64](https://github.com/cyroz1/WinSux-arm64)** &nbsp;·&nbsp; `PowerShell` `ARM64`  \
 An ARM64-aware Windows one-click guide for power users.
+
+**[OBS Song Splitter](https://github.com/cyroz1/geode-obs-song-splitter)** &nbsp;·&nbsp; `C++` `Geode` `miniaudio`  \
+A Geometry Dash mod that plays a different song on a separate audio output, synced with the level — so OBS can broadcast alternate music while you hear the real track in-game.
 
 [More projects on GitHub](https://github.com/cyroz1?tab=repositories)
 
