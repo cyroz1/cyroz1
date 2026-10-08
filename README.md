@@ -45,9 +45,6 @@ A Windows guide for power users — multiple scripts with revert options and a U
 **[WinSux-arm64](https://github.com/cyroz1/WinSux-arm64)** &nbsp;·&nbsp; `PowerShell` `ARM64`  \
 An ARM64-aware Windows one-click guide for power users.
 
-**[OBS Song Splitter](https://github.com/cyroz1/geode-obs-song-splitter)** &nbsp;·&nbsp; `C++` `Geode` `miniaudio`  \
-A Geometry Dash mod that plays a different song on a separate audio output, synced with the level — so OBS can broadcast alternate music while you hear the real track in-game.
-
 [More projects on GitHub](https://github.com/cyroz1?tab=repositories)
 
 ### Tech I reach for
