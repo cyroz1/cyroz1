@@ -1,6 +1,6 @@
 ## Hi, I'm cyroz 👋
 
-I build small, useful software for desktop, Apple Watch, and the web — usually to solve a problem I have myself.
+I build small software projects across desktop, Apple Watch, and the web—usually tools that scratch my own itch.
 
 🌐 [cyroz.net](https://cyroz.net)
 
@@ -10,13 +10,11 @@ My projects are free and open source. If they save you time, consider [sponsorin
 
 ### Public projects
 
-Ordered by popularity.
-
 **[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg`  \
 A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing.
 
 **[fl-studio-rust](https://github.com/cyroz1/fl-studio-rust)** &nbsp;·&nbsp; `Rust` `egui` `VST3`  \
-A clean-room FL Studio rebuild in Rust — lossless FLP format core with round-trip fidelity, VST3 hosting, and a desktop GUI (playlist, channel rack, piano roll, mixer).
+An early clean-room Rust compatibility project with lossless FLP round-tripping, an evolving desktop editor, and initial playback and rendering support. Full FL Studio parity is still a work in progress.
 
 **[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`  \
 A standalone watchOS Gemini chat client with streaming conversations, local history, web search grounding, and text-to-speech—no iPhone companion required.
@@ -39,8 +37,8 @@ A watchOS remote control for Codex over direct SSH, with streamed threads, appro
 **[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg`  \
 Native macOS and Windows apps that turn public music and social links into tagged M4A files for an Apple Music library, with metadata and artwork handling.
 
-**[Ultimate](https://github.com/cyroz1/Ultimate)** &nbsp;·&nbsp; `PowerShell` `Windows`  \
-A Windows guide for power users — multiple scripts with revert options and a UI; reboot needed for scripts to apply.
+**[Ultimate Toolbox](https://github.com/cyroz1/ultimate-toolbox)** &nbsp;·&nbsp; `C#` `WinUI 3` `Windows`  \
+A native WinUI 3 front end for FR33THY's Windows optimization scripts, with detected tweak state and restore-point safeguards.
 
 **[WinSux-arm64](https://github.com/cyroz1/WinSux-arm64)** &nbsp;·&nbsp; `PowerShell` `ARM64`  \
 An ARM64-aware Windows one-click guide for power users.
@@ -49,4 +47,4 @@ An ARM64-aware Windows one-click guide for power users.
 
 ### Tech I reach for
 
-`TypeScript` · `Rust` · `Swift` · `React` · `Tauri` · `SwiftUI` · `FFmpeg` · `Cloudflare Workers`
+`Rust` · `Swift` · `TypeScript` · `JavaScript` · `Python` · `C#` · `React` · `Tauri` · `watchOS` · `FFmpeg` · `Cloudflare Workers`
