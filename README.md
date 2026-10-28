@@ -11,7 +11,7 @@ My projects are free and open source. If they save you time, consider [sponsorin
 ### Public projects
 
 **[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg`  \
-A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing.
+A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing. 5,000+ downloads.
 
 **[fl-studio-rust](https://github.com/cyroz1/fl-studio-rust)** &nbsp;·&nbsp; `Rust` `egui` `VST3`  \
 An early clean-room Rust compatibility project with lossless FLP round-tripping, an evolving desktop editor, and initial playback and rendering support. Full FL Studio parity is still a work in progress.
@@ -36,6 +36,9 @@ A watchOS remote control for Codex over direct SSH, with streamed threads, appro
 
 **[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg`  \
 Native macOS and Windows apps that turn public music and social links into tagged M4A files for an Apple Music library, with metadata and artwork handling.
+
+**[AM Native](https://github.com/cyroz1/am-winui)** &nbsp;·&nbsp; `C#` `WinUI 3` `MusicKit`  \
+A native Windows client for Apple Music built on WinUI 3, with full catalog and library browsing, playlists, favorites, and full-song playback through Apple's MusicKit web player.
 
 **[Ultimate Toolbox](https://github.com/cyroz1/ultimate-toolbox)** &nbsp;·&nbsp; `C#` `WinUI 3` `Windows`  \
 A native WinUI 3 front end for FR33THY's Windows optimization scripts, with detected tweak state and restore-point safeguards.
