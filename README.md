@@ -37,9 +37,6 @@ A watchOS remote control for Codex over direct SSH, with streamed threads, appro
 **[AM Download](https://github.com/cyroz1/am-download)** &nbsp;·&nbsp; `C++` `macOS` `Windows` `yt-dlp` `FFmpeg`  \
 Native macOS and Windows apps that turn public music and social links into tagged M4A files for an Apple Music library, with metadata and artwork handling.
 
-**[AM Native](https://github.com/cyroz1/am-winui)** &nbsp;·&nbsp; `C#` `WinUI 3` `MusicKit`  \
-A native Windows client for Apple Music built on WinUI 3, with full catalog and library browsing, playlists, favorites, and full-song playback through Apple's MusicKit web player.
-
 **[UltimateWinUI](https://github.com/cyroz1/ultimate-toolbox)** &nbsp;·&nbsp; `C#` `WinUI 3` `Windows`  \
 A native WinUI 3 front end for FR33THY's Windows optimization scripts, with detected tweak state and restore-point safeguards.
 
