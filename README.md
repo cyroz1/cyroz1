@@ -40,7 +40,7 @@ Native macOS and Windows apps that turn public music and social links into tagge
 **[AM Native](https://github.com/cyroz1/am-winui)** &nbsp;·&nbsp; `C#` `WinUI 3` `MusicKit`  \
 A native Windows client for Apple Music built on WinUI 3, with full catalog and library browsing, playlists, favorites, and full-song playback through Apple's MusicKit web player.
 
-**[Ultimate Toolbox](https://github.com/cyroz1/ultimate-toolbox)** &nbsp;·&nbsp; `C#` `WinUI 3` `Windows`  \
+**[UltimateWinUI](https://github.com/cyroz1/ultimate-toolbox)** &nbsp;·&nbsp; `C#` `WinUI 3` `Windows`  \
 A native WinUI 3 front end for FR33THY's Windows optimization scripts, with detected tweak state and restore-point safeguards.
 
 **[WinSux-arm64](https://github.com/cyroz1/WinSux-arm64)** &nbsp;·&nbsp; `PowerShell` `ARM64`  \
