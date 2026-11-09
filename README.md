@@ -11,7 +11,7 @@ My projects are free and open source. If they save you time, consider [sponsorin
 ### Public projects
 
 **[vidcord](https://github.com/cyroz1/vidcord)** &nbsp;·&nbsp; `Rust` `Tauri` `FFmpeg`  \
-A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing. 5,000+ downloads.
+A free, open-source Discord video compressor for Windows, macOS, and Linux, with trimming, batch mode, GIF export, hardware encoding, and fully local processing. 6,000+ downloads.
 
 **[fl-studio-rust](https://github.com/cyroz1/fl-studio-rust)** &nbsp;·&nbsp; `Rust` `egui` `VST3`  \
 An early clean-room Rust compatibility project with lossless FLP round-tripping, an evolving desktop editor, and initial playback and rendering support. Full FL Studio parity is still a work in progress.
