@@ -19,9 +19,6 @@ An early clean-room Rust compatibility project with lossless FLP round-tripping,
 **[Gemini Watch](https://github.com/cyroz1/gemini-watch)** &nbsp;·&nbsp; `Swift` `SwiftUI` `watchOS`  \
 A standalone watchOS Gemini chat client with streaming conversations, local history, web search grounding, and text-to-speech—no iPhone companion required.
 
-**[Muse Watch](https://github.com/cyroz1/muse-watch)** &nbsp;·&nbsp; `Swift` `watchOS` `Noise Protocol`  \
-A research Apple Watch client for Muse with a Messages-style chat UI, an iPhone companion relay, and a Swift port of the Muse gadget gateway protocol (Noise XX, protobuf framing, WebSocket gateway), verified byte-for-byte against reference test vectors.
-
 **[Fortnite Launch Script](https://github.com/cyroz1/fortnite-launch-script)** &nbsp;·&nbsp; `Batchfile`  \
 A small Windows batch launcher for Fortnite that cleans up leftover Epic background processes.
 
